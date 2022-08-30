@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Plotly Dash**
 
-- 👯 I’m looking to collaborate on [Eye Movement in Programming Toolkit (EMTK))](https://github.com/nalmadi/EMIP-Toolkit)
+- 👯 I’m looking to collaborate on [Eye Movement in Programming Toolkit (EMTK)](https://github.com/nalmadi/EMIP-Toolkit)
 
 - 📝 I regularly write articles on [https://nalmadi.github.io/](https://nalmadi.github.io/)
 
