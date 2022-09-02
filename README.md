@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Eye Tracking and Software Engineering**
 
-- 📄 Know about my experiences [https://cs.colby.edu/nsalmadi/](https://cs.colby.edu/nsalmadi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
