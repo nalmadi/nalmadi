@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Namesake](https://github.com/nalmadi/Namesake)
 
-- 🌱 I’m currently learning **Plotly Dash**
+- 🌱 I’m currently learning **OpenCV**
 
 - 👯 I’m looking to collaborate on [Eye Movement in Programming Toolkit (EMTK)](https://github.com/nalmadi/EMIP-Toolkit)
 
