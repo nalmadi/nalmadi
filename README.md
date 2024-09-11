@@ -6,7 +6,7 @@
 
 - 🌎 I’m the creator of <a href="https://www.iplan-it.com" target="_blank">www.iplan-it.com</a>
 
-- 🌱 I’m currently learning **Flet**
+- 🌱 I’m currently learning **Python Flask**
 
 - 👯 I’m looking to collaborate on [Fix8 (fixate)](https://github.com/nalmadi/fix8/)
 
